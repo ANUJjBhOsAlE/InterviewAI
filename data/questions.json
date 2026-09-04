@@ -1,0 +1,81 @@
+{
+  "Python Developer": {
+    "Beginner": {
+      "Easy": [
+        "What is Python?",
+        "What are variables in Python?",
+        "What is the difference between a list and a tuple?"
+      ],
+      "Medium": [
+        "Explain mutable and immutable objects in Python.",
+        "What is the difference between == and is in Python?",
+        "What are Python decorators?"
+      ],
+      "Hard": [
+        "Explain Python memory management and garbage collection.",
+        "What are generators in Python and how do they differ from iterators?",
+        "Explain the Python Global Interpreter Lock."
+      ]
+    }
+  },
+
+  "Data Analyst": {
+    "Beginner": {
+      "Easy": [
+        "What is data analysis?",
+        "What is the difference between qualitative and quantitative data?",
+        "What is a dataset?"
+      ],
+      "Medium": [
+        "What is the difference between mean, median and mode?",
+        "How do you handle missing values in a dataset?",
+        "What is the difference between correlation and causation?"
+      ],
+      "Hard": [
+        "How would you detect outliers in a dataset?",
+        "Explain the difference between normalization and standardization.",
+        "How would you evaluate whether a dataset is suitable for analysis?"
+      ]
+    }
+  },
+
+  "Software Engineer": {
+    "Beginner": {
+      "Easy": [
+        "What is software engineering?",
+        "What is SDLC?",
+        "What is a software requirement?"
+      ],
+      "Medium": [
+        "Explain the difference between verification and validation.",
+        "What is unit testing?",
+        "What is the difference between an API and a library?"
+      ],
+      "Hard": [
+        "Explain the SOLID principles.",
+        "How would you design a scalable web application?",
+        "What are the advantages and disadvantages of microservices?"
+      ]
+    }
+  },
+
+  "Machine Learning Engineer": {
+    "Beginner": {
+      "Easy": [
+        "What is machine learning?",
+        "What is supervised learning?",
+        "What is the difference between classification and regression?"
+      ],
+      "Medium": [
+        "What is overfitting and how can you prevent it?",
+        "What is the purpose of train-test splitting?",
+        "Explain precision, recall and F1-score."
+      ],
+      "Hard": [
+        "Explain the bias-variance tradeoff.",
+        "How would you handle class imbalance in a machine learning dataset?",
+        "How would you deploy a machine learning model in production?"
+      ]
+    }
+  }
+}
